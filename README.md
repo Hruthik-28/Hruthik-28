@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JustBlogIt<br>👯 I’m looking to collaborate on Fullstack Projects<br>🌱 I’m currently learning React, Backend<br>💬 Ask me about  JavaScript, React, Node.js, and any general software development questions.
+🔭 I’m currently working on [**JustBlogIt**](https://justblogit.netlify.app/)<br>👯 I’m looking to collaborate on Fullstack Projects<br>🌱 I’m currently learning React, Backend<br>💬 Ask me about  JavaScript, React, Node.js, and any general software development questions.
 
 
 ## 🌐 Socials:
