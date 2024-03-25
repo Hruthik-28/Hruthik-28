@@ -7,7 +7,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ℍ𝕣𝕦𝕥𝕙𝕚𝕜! 
-*FullStack Guy (Developer / Programmer)*
+*FullStack Guy*
 <br /> 
 
 <!--Start Intro-->               
@@ -41,24 +41,6 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Hruthik-28">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hruthik-28&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Hruthik-28">
-          <img align="center" src="https://streak-stats.demolab.com?user=Hruthik-28&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Hruthik-28/youtube-twitter">
@@ -78,11 +60,6 @@
 </table>
 <br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hruthik-28&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
 
 ---
 
@@ -106,6 +83,10 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
+<a href="https://twitter.com/hruthik_28" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+</a>
+  
  <a href="https://www.linkedin.com/in/hruthik-ks-a90112253/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -118,9 +99,7 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/hruthik_28" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
+
 </div>
 <br/>
 
