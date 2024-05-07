@@ -1,21 +1,13 @@
 
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ℍ𝕣𝕦𝕥𝕙𝕚𝕜! 
-*FullStack Guy*
-<br /> 
+# Hi, I'm Hruthik 👋
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js  </p>
-
-- ✨ Student of life :)
-- 🔭 I’m currently working on [youtube-twitter](https://github.com/Hruthik-28/youtube-twitter)
+- ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js
+- 🔭 I’m currently working on [Get-Feedback](https://github.com/Hruthik-28/Get-Feedback)
 - ✍ I write blogs, You can visit my blog site at [hashnode](https://hruthik.hashnode.dev/).
+- 🔎 You will find me most active on [@hruthik_28](https://twitter.com/hruthik_28).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://hruthikportfolio.netlify.app/) for more details about me.
 <!--End Intro-->
@@ -25,64 +17,50 @@
   <img src="https://komarev.com/ghpvc/?username=Hruthik-28&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Hruthik" style="padding-right:20px;" />
 </p>
 
----
-<br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,vscode,postman&perline=10"  />
+<h2 align="left">📦 Technologies</h2> 
+<p align="left">
+<!-- <img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,vscode,postman&perline=10"  /> -->
+  
+**Frontend**:
+```React```
+```NextJs```
+```Redux```
+```HTML```
+```css```
+```Tailwind```
+
+**Backend**:
+```Express```
+```NodeJS```
+```MongoDB```
+```Postman```
+
+**Version Control**:
+```Git```
+```Github```
+```Gitlab```
+
+**Others**:
+```appwrite```
+```vercel```
+```netlify```
+```resend```
 </p>
-<br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Hruthik-28/youtube-twitter">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Hruthik-28&repo=youtube-twitter&theme=nightowl&show_owner=true" alt="youtube-twitter" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Languages</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Hruthik-28">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthik-28&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-
----
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=What%20you%20get%20by%20achieving%20your%20goals%20is%20not%20as%20important%20as%20what%20you%20become%20by%20achieving%20your%20goals.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
-
+<h2 align="left">📊 Github Stats</h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthik-28&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
 
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+<h2 align="left">🤝Contact</h2>
+<p>For a quick response, DM me on <strong>twitter</strong></p>
+<br />
+
+<div align="left">
 <a href="https://twitter.com/hruthik_28" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
 </a>
@@ -99,14 +77,4 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
-
 </div>
-<br/>
-
-
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
-
