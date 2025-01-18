@@ -5,7 +5,7 @@
 
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js
-- 🔭 I’m currently working on [Get-Feedback](https://github.com/Hruthik-28/Get-Feedback)
+- 🔭 I’m currently working on [Easy-Scrape](https://github.com/Hruthik-28/easy-scrape)
 - ✍ I write blogs, You can visit my blog site at [hashnode](https://hruthik.hashnode.dev/).
 - 🔎 You will find me most active on [@hruthik_28](https://twitter.com/hruthik_28).
 - ❤ Contributing to Open Source.
